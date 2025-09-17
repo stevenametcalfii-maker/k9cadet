@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Background Circle -->
+  <circle cx="250" cy="250" r="240" fill="#1B365D" />
+  
+  <!-- Outer Ring -->
+  <circle cx="250" cy="250" r="240" stroke="#F4A261" stroke-width="12" fill="none" />
+  
+  <!-- Laurel Wreath -->
+  <!-- Left Side -->
+  <g stroke="#F4A261" stroke-width="6" stroke-linecap="round">
+    <!-- Left Side Laurel Leaves -->
+    <path d="M140,250 Q100,220 120,180" fill="none" />
+    <path d="M140,260 Q90,240 100,190" fill="none" />
+    <path d="M140,270 Q80,260 80,200" fill="none" />
+    <path d="M140,280 Q70,280 70,210" fill="none" />
+    <path d="M140,290 Q70,300 60,220" fill="none" />
+    <path d="M140,300 Q80,320 50,230" fill="none" />
+    <path d="M140,310 Q90,340 50,240" fill="none" />
+    
+    <!-- Right Side Laurel Leaves -->
+    <path d="M360,250 Q400,220 380,180" fill="none" />
+    <path d="M360,260 Q410,240 400,190" fill="none" />
+    <path d="M360,270 Q420,260 420,200" fill="none" />
+    <path d="M360,280 Q430,280 430,210" fill="none" />
+    <path d="M360,290 Q430,300 440,220" fill="none" />
+    <path d="M360,300 Q420,320 450,230" fill="none" />
+    <path d="M360,310 Q410,340 450,240" fill="none" />
+  </g>
+  
+  <!-- Dog Silhouette (German Shepherd) -->
+  <g fill="#6C757D">
+    <!-- Body -->
+    <ellipse cx="250" cy="280" rx="90" ry="50" />
+    
+    <!-- Head -->
+    <circle cx="320" cy="240" r="40" />
+    
+    <!-- Ears -->
+    <path d="M300,210 L320,170 L340,210 Z" />
+    <path d="M340,210 L360,180 L370,215 Z" />
+    
+    <!-- Legs -->
+    <rect x="220" y="320" width="15" height="40" rx="5" />
+    <rect x="260" y="320" width="15" height="40" rx="5" />
+    <rect x="200" y="310" width="15" height="50" rx="5" />
+    <rect x="280" y="310" width="15" height="50" rx="5" />
+    
+    <!-- Tail -->
+    <path d="M170,280 Q150,250 160,220" stroke="#6C757D" stroke-width="15" fill="none" stroke-linecap="round" />
+  </g>
+  
+  <!-- Graduation Cap -->
+  <g>
+    <rect x="300" y="190" width="60" height="15" fill="black" />
+    <polygon points="330,190 300,190 360,190 330,170" fill="black" />
+    <line x1="330" y1="190" x2="350" y2="210" stroke="#F4A261" stroke-width="3" />
+  </g>
+  
+  <!-- Text: K9 CADET -->
+  <text x="250" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="white" stroke="#F4A261" stroke-width="2">K9 CADET</text>
+  
+  <!-- Text: EUROPEAN TRAINING ACADEMY -->
+  <text x="250" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white" stroke="#F4A261" stroke-width="1">EUROPEAN TRAINING ACADEMY</text>
+</svg>

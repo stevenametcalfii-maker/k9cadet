@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Background Circle -->
+  <circle cx="250" cy="250" r="240" fill="#1B365D" />
+  
+  <!-- Outer Ring -->
+  <circle cx="250" cy="250" r="240" stroke="#F4A261" stroke-width="12" fill="none" />
+  
+  <!-- Laurel Wreath -->
+  <!-- Left Side -->
+  <g stroke="#F4A261" stroke-width="6" stroke-linecap="round">
+    <!-- Left Side Laurel Leaves -->
+    <path d="M140,250 Q100,220 120,180" fill="none" />
+    <path d="M140,260 Q90,240 100,190" fill="none" />
+    <path d="M140,270 Q80,260 80,200" fill="none" />
+    <path d="M140,280 Q70,280 70,210" fill="none" />
+    <path d="M140,290 Q70,300 60,220" fill="none" />
+    <path d="M140,300 Q80,320 50,230" fill="none" />
+    <path d="M140,310 Q90,340 50,240" fill="none" />
+    
+    <!-- Right Side Laurel Leaves -->
+    <path d="M360,250 Q400,220 380,180" fill="none" />
+    <path d="M360,260 Q410,240 400,190" fill="none" />
+    <path d="M360,270 Q420,260 420,200" fill="none" />
+    <path d="M360,280 Q430,280 430,210" fill="none" />
+    <path d="M360,290 Q430,300 440,220" fill="none" />
+    <path d="M360,300 Q420,320 450,230" fill="none" />
+    <path d="M360,310 Q410,340 450,240" fill="none" />
+  </g>
+  
+  <!-- German Shepherd Silhouette -->
+  <g>
+    <!-- Body -->
+    <path d="M190,300 Q250,260 310,300 Q320,330 290,350 Q250,370 210,350 Q180,330 190,300" fill="#6C757D" />
+    
+    <!-- Head -->
+    <path d="M290,240 Q330,220 350,260 Q360,290 330,300 Q310,310 290,290 Q280,270 290,240" fill="#6C757D" />
+    
+    <!-- Snout -->
+    <path d="M350,260 Q370,270 360,290 Q350,300 330,300" fill="#6C757D" />
+    
+    <!-- Ears (pointed) -->
+    <path d="M290,240 Q300,200 320,230" fill="#6C757D" />
+    <path d="M330,230 Q350,190 350,230" fill="#6C757D" />
+    
+    <!-- Legs -->
+    <rect x="220" y="350" width="15" height="40" rx="5" fill="#6C757D" />
+    <rect x="260" y="350" width="15" height="40" rx="5" fill="#6C757D" />
+    <rect x="200" y="340" width="15" height="50" rx="5" fill="#6C757D" />
+    <rect x="280" y="340" width="15" height="50" rx="5" fill="#6C757D" />
+    
+    <!-- Tail -->
+    <path d="M190,300 Q170,280 180,250" stroke="#6C757D" stroke-width="15" fill="none" stroke-linecap="round" />
+  </g>
+  
+  <!-- Graduation Cap -->
+  <g>
+    <rect x="290" y="220" width="60" height="15" fill="black" />
+    <polygon points="320,220 290,220 350,220 320,200" fill="black" />
+    <line x1="320" y1="220" x2="340" y2="240" stroke="#F4A261" stroke-width="3" />
+  </g>
+  
+  <!-- Text: K9 CADET with gold outline -->
+  <text x="250" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="white" stroke="#F4A261" stroke-width="2">K9 CADET</text>
+  
+  <!-- Text: EUROPEAN TRAINING ACADEMY -->
+  <text x="250" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white" stroke="#F4A261" stroke-width="1">EUROPEAN TRAINING ACADEMY</text>
+</svg>
