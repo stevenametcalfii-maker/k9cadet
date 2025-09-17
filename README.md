@@ -143,4 +143,4 @@ All rights reserved. This project and its contents are proprietary to K9 Cadet E
 For any questions or issues, please contact:
 
 - Email: info@k9cadet.com
-- Phone: +43 1 234 5678
+- Phone: +43 1 234 5678# Additional documentation will be added here
